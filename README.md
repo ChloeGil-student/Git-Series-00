@@ -26,3 +26,13 @@ My goal is to build useful skills that I can apply to my future studies, researc
 Here is a screenshot of my Python environment:
 
 ![Python environment](images/Python_environment.png)
+
+## What I learned
+
+I learned the basic concepts of Git and GitHub, including repositories, branches, commits and remote repositories.
+I learned how to clone a repository, create a branch, make changes and track them locally.
+I learned how to use GitHub Desktop to commit and push my changes to GitHub.
+I learned how to use Markdown and relative paths to add local images, and that file names must match exactly, including capitalization.
+The main Git commands I learned are clone, branch, add, commit and push.
+
+Overall, it took me approximately 45 minutes to complete this assignment.
