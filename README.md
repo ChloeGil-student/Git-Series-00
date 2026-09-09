@@ -25,4 +25,4 @@ My goal is to build useful skills that I can apply to my future studies, researc
 
 Here is a screenshot of my Python environment:
 
-![Python environment](images/python_environment.png)
+![Python environment](images/Python_environment.png)
