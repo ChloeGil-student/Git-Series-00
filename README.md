@@ -13,3 +13,10 @@ I'm looking forward to learning more about Git and GitHub, especially to manage 
 
 ![Toulouse](https://plus.unsplash.com/premium_photo-1661962571049-792ae9be2d79?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+## My Motivation
+
+I want to learn Python and R because they are essential tools in modern research and data analysis.
+I am interested in using programming to analyse movement and health-related data.
+Learning Git and GitHub will help me organise, track and share my projects more efficiently.
+I am still a beginner, so I want to become more confident by learning through practice.
+My goal is to build useful skills that I can apply to my future studies, research and career.
