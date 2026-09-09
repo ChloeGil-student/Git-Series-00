@@ -20,3 +20,9 @@ I am interested in using programming to analyse movement and health-related data
 Learning Git and GitHub will help me organise, track and share my projects more efficiently.
 I am still a beginner, so I want to become more confident by learning through practice.
 My goal is to build useful skills that I can apply to my future studies, research and career.
+
+## My Python environment
+
+Here is a screenshot of my Python environment:
+
+![Python environment](images/python_environment.png)
