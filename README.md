@@ -9,7 +9,7 @@ I'm not a complete beginner: I've had one course where GitHub was used, but only
 
 I'm looking forward to learning more about Git and GitHub, especially to manage and share my future data analysis projects more effectively.
 
-## A Nice Image
+## A Pretty Image
 
 ![Toulouse](https://plus.unsplash.com/premium_photo-1661962571049-792ae9be2d79?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -21,7 +21,7 @@ Learning Git and GitHub will help me organise, track and share my projects more 
 I am still a beginner, so I want to become more confident by learning through practice.
 My goal is to build useful skills that I can apply to my future studies, research and career.
 
-## My Python environment
+## A Local Image
 
 Here is a screenshot of my Python environment:
 
